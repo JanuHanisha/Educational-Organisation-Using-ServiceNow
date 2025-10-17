@@ -87,18 +87,17 @@ This project demonstrates how ServiceNow’s low-code/no-code platform can be cu
 - **Role-based access control** (Admin, Teacher, Student).  
 
 ---
-
 ## 📸 Screenshots
-*(Add screenshots here from your project implementation, e.g., forms, tables, workflows, dashboards.)*  
 ## DEMO Video
-Uploading ServiceNow - Google Chrome 2025-09-22 20-14-45.mp4…
-
 https://github.com/user-attachments/assets/5754593a-c675-41d8-bd8d-048aa6354c33
-## ServiceNow Form 
+
+### ServiceNow Form 
 <img width="1919" height="409" alt="SN Servicenow form" src="https://github.com/user-attachments/assets/de84b421-61ee-454e-9d20-297c2015c5af" />
-## Admission Form 
+
+### Admission  Form 
 <img width="1916" height="860" alt="SN Admission form" src="https://github.com/user-attachments/assets/e102fa56-50d5-4008-ab1a-dcf91119cc6c" />
-## Student Progess Form
+
+### Student Progess Form
 <img width="1919" height="863" alt="SN Student progress form" src="https://github.com/user-attachments/assets/3af37f57-1b29-46c1-9c89-b110a388ba0b" />
 
 
@@ -116,4 +115,9 @@ https://github.com/user-attachments/assets/5754593a-c675-41d8-bd8d-048aa6354c33
 This project showcases the ability to leverage ServiceNow to build a **custom Educational Management System**. By automating core processes such as **admissions, student progress, and section management**, institutions can reduce manual workload, improve accuracy, and enhance efficiency.  
 
 ---
-👩‍💻 *Developed as part of ServiceNow Project – Educational Organisation Using ServiceNow*  
+## 👨‍💻 Author
+Janu Hanisha
+
+ServiceNow Developer | CAD certified
+
+*Developed as part of ServiceNow Project – Educational Organisation Using ServiceNow*  
